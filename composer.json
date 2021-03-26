@@ -1,0 +1,7 @@
+{
+    "name": "lijinhua/haha",
+    "description": "测试",
+    "require": {
+        "php": ">=7.4"
+    }
+}
